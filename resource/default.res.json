@@ -1,0 +1,39 @@
+{
+	"groups": [
+		{
+			"keys": "cartoon-egret_00_png,cartoon-egret_01_png,cartoon-egret_02_png,cartoon-egret_03_png",
+			"name": "preload"
+		},
+		{
+			"keys": "cartoon-egret_03_png,cartoon-egret_02_png,cartoon-egret_01_png,cartoon-egret_00_png",
+			"name": "icons"
+		}
+	],
+	"resources": [
+		{
+			"url": "fonts/ROCKETTOMARS.ttf",
+			"type": "font",
+			"name": "ROCKETTOMARS_ttf"
+		},
+		{
+			"url": "assets/cartoon-egret_00.png",
+			"type": "image",
+			"name": "cartoon-egret_00_png"
+		},
+		{
+			"url": "assets/cartoon-egret_01.png",
+			"type": "image",
+			"name": "cartoon-egret_01_png"
+		},
+		{
+			"url": "assets/cartoon-egret_02.png",
+			"type": "image",
+			"name": "cartoon-egret_02_png"
+		},
+		{
+			"url": "assets/cartoon-egret_03.png",
+			"type": "image",
+			"name": "cartoon-egret_03_png"
+		}
+	]
+}
